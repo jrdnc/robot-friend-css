@@ -63,6 +63,7 @@ h1 {
 
 .right_arm {
 	margin-left: 10px;
+	transform-origin: center 20%;
 	transition: 1s ease-in-out;
 }
 
